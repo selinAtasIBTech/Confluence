@@ -63,7 +63,9 @@ Derinlik sınırsız şekilde tüm alt sayfalar gezildi.
 FileNotFoundError	Path uzunluğu Windows sınırını aştı	\\?\ prefixi kullanıldı
 smg.. gibi klasör isimleri	. ile biten veya sadece .. gibi tehlikeli isimler	. karakteri temizlendi
 Aynı isimde dosya/klasör çakışması	Başlık tekrarlandığında sorun çıkıyordu	Dosya adı sadece id olarak verildi
-Örnek Çıktı Yapısı
+
+Örnek Çıktı Yapısı:
+
 bireysel_krediler_wiki_98305/
 ├── page_123456__giris_maili/
 │   └── content_123456.txt
@@ -76,9 +78,8 @@ Sayfa başlığı
 
 HTML'den arındırılmış düz metin içerik yer aldı
 
-Kazanımlar
-Confluence verilerinin manuel kopyalama ihtiyacı ortadan kalktı
+## Kazanımlar:
 
-Kapsamlı klasörleme ile belge arşivleme kolaylaştı
-
-Dosya adlandırması, sistem uyumluluğu ve güvenli API kullanımı öğrenildi
+- Confluence verilerinin manuel kopyalama ihtiyacı ortadan kalktı
+- Kapsamlı klasörleme ile belge arşivleme kolaylaştı
+- Dosya adlandırması, sistem uyumluluğu ve güvenli API kullanımı öğrenildi
